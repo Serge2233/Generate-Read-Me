@@ -9,6 +9,8 @@
 6. [Test Instructions](#test-instructions)
 7. [License](#license)
 8. [Questions](#questions)
+## Application Video
+* (https://drive.google.com/file/d/14Luf3gs5D4jK6HM4LcUgnnejp8SJ7jg6/view?usp=sharing)
 ## Project Description
 * This is a command line application that generates a read me file from a users input using the inquirer package
 ## Installation Instructions
@@ -22,7 +24,7 @@
 ## Test Instructions
 * No test required
 ## License
-* licensed under the 
+* MIT License 
 ## Questions
 * For additional help or questions about collaboration, please reach out to serge5555@hotmail.com
 * Follow me on Github at [Serge2233](http://github.com/Serge2233)
